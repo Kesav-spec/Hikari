@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+
+# Environment variable
+.env
+
+# Directories
+dataset/
+
+# File types
+*.json
+
+# Files
+validTags.txt
